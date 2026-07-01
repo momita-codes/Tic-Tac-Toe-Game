@@ -58,6 +58,3 @@ Contributions are welcome. To propose changes:
 3. Make your changes and commit them
 4. Push to your fork and open a Pull Request
 
-## License
-
-This repository does not include a license file. Add a `LICENSE` if you want to grant explicit reuse terms.
